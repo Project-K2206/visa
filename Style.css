@@ -10,12 +10,18 @@ html, body {
     bottom: 0;
     left: 0;
     right: 0;
-    background-color: #e7ffff;
+    background-color: #d5feeb;
     font-family: 'Poppins', sans-serif;
 }
 
 #view {
     margin-top: 30px;
+}
+
+#Mentions {
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times;
+    font-size: 18px;
 }
 
 #mazeContainer {
@@ -121,7 +127,7 @@ input:focus, select:focus {
 }
 
 #instructions {
-    margin-top: 425px;
+    margin-top: 455px;
 }
  
 /* Extra small devices (phones, 600px and down) */
